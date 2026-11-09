@@ -1,0 +1,7 @@
+.DS_Store
+._*
+__pycache__/
+.venv/
+models/*.pth
+models/*.npz
+models/clip/
